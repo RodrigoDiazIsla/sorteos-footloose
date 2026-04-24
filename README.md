@@ -114,7 +114,3 @@ Name: "{autodesktop}\Sorteo Regalon Footloose"; Filename: "{app}\raffle_footloos
 Para configurar notifaciones en Desktop, ocultamos lo de notificaciones en dispositivos móviles. (services/notification/notification_mobile.dart)
 
 ---
-
-## 👨‍💻 Créditos
-
-Desarrollado con ♥️ por [Pierre Juarez](https://www.linkedin.com/in/pierre-juarez/) 😊
